@@ -27,4 +27,6 @@ Top beneficial tools for DevOps are:
 - Ansible
 - eG Enterprise.
 
+It is an open-source app containerization tool that universalizes the deployment and management of software in isolated containers that can be further launched in different environments - on-premise infrastructure, cloud or without the need to employ resource-heavy hypervisors.
+
 Docker in simple words is a tool or platform design to simplify the process of creating, deploying, and packaging and shipping out applications along with its parts such as libraries and other dependencies. Its primary purpose is to automate the application deployment process and operating-system-level virtualization on Linux. It allows multiple containers to run on the same hardware and provides high productivity, along with maintaining isolated applications and facilitating seamless configuration.
