@@ -13,6 +13,17 @@ SRE provides a unique approach to application lifecycle and service management b
 
 DevOps reduces the complexity of managing software engineering projects through collaboration and automation.
 
+
+While DevOps aims to handle runtime errors and allow teams to learn from them, SRE enforces error management through Service Level Commitments (SLx) to ensure all failures are handled. SRE also allows for a risk budget that allows teams to test the limits of failure for reevaluation and innovation.
+
+This highlights various differences in how the concepts operate, including:
+
+Goal: Both SRE and DevOps aim to bridge the gap between development and operations, though SRE involves prescriptive ways of achieving reliability, while DevOps works as a template that guides collaboration.
+
+Focus: Site reliability engineering mainly focuses on enhancing system availability and reliability while DevOps focuses on speed of development and delivery while enforcing continuity.
+
+Team structure: An SRE team is composed of site reliability engineers who have a background in both operations and development. DevOps teams include a variety of roles, including QA experts, developers, engineers, SREs and many others.
+
 ## What are various tools for setting DevOps?
 
 Top beneficial tools for DevOps are:
