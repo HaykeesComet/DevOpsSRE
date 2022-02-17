@@ -8,6 +8,7 @@ SRE takes the tasks that have historically been done by operations teams, often 
 SRE is a valuable practice when creating scalable and highly reliable software systems. It helps you manage large systems through code, which is more scalable and sustainable for sysadmins managing thousands or hundreds of thousands of machines.
 
 ## Are SRE and DevOps the same or different. If different, how?
+SRE and DevOps differ but go hand in hand.
 
 SRE provides a unique approach to application lifecycle and service management by incorporating various aspects of software development into IT operations.
 
